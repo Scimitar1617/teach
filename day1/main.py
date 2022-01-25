@@ -36,5 +36,6 @@ if __name__ == "__main__":
     startwert = 0
     schlusswert = 10
 
+    
     # Schreibe hier deinen Code für das Spiel. Viel Spaß!
 
